@@ -8,3 +8,7 @@ notes on excellent elixir/phoenix tutorials
 ## video
 
   * WebRTC: [code](https://github.com/chadbrading/phoenix-webrtc), [tutorial](https://hashrocket.com/blog/posts/implementing-video-chat-in-a-phoenix-application-with-webrtc)
+  
+## elm
+
+  * contacts example: [code](https://github.com/bigardone/phoenix-and-elm), [tutorial](http://codeloveandboards.com/blog/2017/02/02/phoenix-and-elm-a-real-use-case-pt-1/), remark: some typos and stylus configuration not working in the tutorial unless you copy and paste from original code.
