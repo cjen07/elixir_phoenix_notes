@@ -13,3 +13,4 @@ notes on excellent elixir/phoenix tutorials
 
   * contacts example: [code](https://github.com/bigardone/phoenix-and-elm), [tutorial](http://codeloveandboards.com/blog/2017/02/02/phoenix-and-elm-a-real-use-case-pt-1/), remark: only two parts available now.
   * seatsaver example: [tutorial](http://www.cultivatehq.com/posts/phoenix-elm-2/), remark: very detailed in elm-phoenix architecture, but some sections are outdated for elm version 0.17 and after.
+  * article example: [tutorial](https://medium.com/@diamondgfx/writing-a-full-site-in-phoenix-and-elm-a100804c9499#.io4uh1vwr), remark: concise and introductory.
