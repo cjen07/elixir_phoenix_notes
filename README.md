@@ -1,5 +1,11 @@
-# learn_elixir_phoenix
-notes on excellent elixir/phoenix tutorials
+# elixir_phoenix_notes
+notes on excellent elixir/phoenix tutorials and info
+
+## info
+
+ * project: [link](http://elixirstatus.com/)
+ * job: [link](http://plataformatec.com.br/elixir-radar/jobs), [link](http://jobs.elixirdose.com/)
+ * elixir_china: [link](http://elixir-cn.com/)
 
 ## database
 
