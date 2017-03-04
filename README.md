@@ -25,3 +25,7 @@ notes on excellent elixir/phoenix tutorials and info
 
   * phaser: [slide](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/083/original/Building_multiplayer_games_with_Phoenix_and_Phaser_by_Keith_Salisbury.pdf?1463046267), [code](https://github.com/ktec/phoenixphaserdemo), remark: easy demo to get phaser-phoenix up and running.
   * tictactoe: [slide](https://speakerdeck.com/ventsislaf/building-multiplayer-real-time-game-with-elixir-and-phoenix), [code](https://github.com/cjen07/tictactoe), remark: very good example, my contribution: I updated it using registry in Elixir 1.4 and fixed two bugs.
+  
+## phoenix 1.3
+
+* [link](https://elixirforum.com/t/phoenix-v1-3-0-rc-0-released/3947)
