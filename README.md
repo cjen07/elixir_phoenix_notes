@@ -6,6 +6,7 @@ notes on excellent elixir/phoenix tutorials and info
  * project: [elixirstatus](http://elixirstatus.com/), [elixir.libhunt](https://elixir.libhunt.com/)
  * job: [elixir-radar](http://plataformatec.com.br/elixir-radar/jobs), [elixirdose](http://jobs.elixirdose.com/)
  * elixir_china: [elixir-cn](http://elixir-cn.com/)
+ * elixir style: [style-guide](https://github.com/christopheradams/elixir_style_guide)
 
 ## database
 
