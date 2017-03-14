@@ -30,3 +30,8 @@ notes on excellent elixir/phoenix tutorials and info
 ## phoenix 1.3
 
 * [link](https://elixirforum.com/t/phoenix-v1-3-0-rc-0-released/3947)
+
+## must-do
+- [ ] functional data structures: [link](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
+- [ ] distributed erlang/elixir: [book](http://shop.oreilly.com/product/0636920024149.do)
+- [ ] beam vm in depth: [link](http://beam-wisdoms.clau.se/en/latest/)
