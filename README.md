@@ -33,5 +33,6 @@ notes on excellent elixir/phoenix tutorials and info
 
 ## must-do
 - [ ] functional data structures: [link](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
-- [ ] distributed erlang/elixir: [book](http://shop.oreilly.com/product/0636920024149.do)
+- [ ] distributed erlang/elixir: [book1](http://shop.oreilly.com/product/0636920024149.do), [link1](http://elixir-lang.org/getting-started/mix-otp/distributed-tasks-and-configuration.html), [link2](http://erlang.org/doc/reference_manual/distributed.html), [book2](https://www.manning.com/books/the-little-elixir-and-otp-guidebook)
+- [ ] revisit riak and riak_core: [link](https://github.com/basho/riak_core)
 - [ ] beam vm in depth: [link](http://beam-wisdoms.clau.se/en/latest/)
