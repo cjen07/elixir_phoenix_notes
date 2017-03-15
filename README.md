@@ -36,3 +36,10 @@ notes on excellent elixir/phoenix tutorials and info
 - [ ] distributed erlang/elixir: [book1](http://shop.oreilly.com/product/0636920024149.do), [link1](http://elixir-lang.org/getting-started/mix-otp/distributed-tasks-and-configuration.html), [link2](http://erlang.org/doc/reference_manual/distributed.html), [book2](https://www.manning.com/books/the-little-elixir-and-otp-guidebook)
 - [ ] revisit riak and riak_core: [link](https://github.com/basho/riak_core)
 - [ ] beam vm in depth: [link](http://beam-wisdoms.clau.se/en/latest/)
+
+## should-do
+- [ ] install yarn instead of npm
+- [ ] more css exercises for front-end
+- [ ] linux system programming
+- [ ] computer network basics
+- [ ] book: the go programming language
