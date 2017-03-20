@@ -31,6 +31,10 @@ notes on excellent elixir/phoenix tutorials and info
 
 * [link](https://elixirforum.com/t/phoenix-v1-3-0-rc-0-released/3947)
 
+## blog
+
+* [link](https://medium.com/elixir-magic/writing-a-blog-engine-in-phoenix-and-elixir-part-11-better-ui-f17f3d7efa85#.bql24g14q)
+
 ## must-do
 - [ ] functional data structures: [link](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
 - [ ] distributed erlang/elixir: [book1](http://shop.oreilly.com/product/0636920024149.do), [link1](http://elixir-lang.org/getting-started/mix-otp/distributed-tasks-and-configuration.html), [link2](http://erlang.org/doc/reference_manual/distributed.html), [book2](https://www.manning.com/books/the-little-elixir-and-otp-guidebook)
